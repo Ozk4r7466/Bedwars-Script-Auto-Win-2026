@@ -1,0 +1,6 @@
+scipy
+pygetwindow
+opencv-python
+tqdm
+keyboard
+requests
